@@ -1,8 +1,42 @@
-# React + Vite
+# React Price Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the app created for showing price cards for a subscription by using React frame work.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Images](#Images)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+In this web application, you can see the subscription plans for some services. It only contains how the cards are designed but none of what to subscribe. The React framework is used to design the page. 
+
+[Netlify link](https://frabjous-lollipop-086fcd.netlify.app/)
+
+## Images
+
+The below images tell about how the homepage looks like and shows its responsivenes
+![Homepage](img1.png)
+![Responsiveness1](img2.png)
+![Responsiveness2](img3.png)
+![Responsiveness3](img4.png)
+
+
+
+## Installation
+
+No installation is required except a latest web browser.
+
+## Usage
+
+It can be used as reference for how a price card to be designed(individuals preference may vary).
+
+## License
+
+MIT License
+
+---
